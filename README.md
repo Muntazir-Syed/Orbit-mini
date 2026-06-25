@@ -125,3 +125,14 @@ Orbit Mini is an early step toward **Orbit**, a broader platform designed to hel
 **Syed Muntazir**
 
 GitHub: https://github.com/Muntazir-Syed
+ 
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Orbit Dashboard](assets/dashboard.png)
+
+### Analytics
+
+![Orbit Analytics](assets/graph.png)
