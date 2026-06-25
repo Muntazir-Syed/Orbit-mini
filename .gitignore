@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.streamlit/
+
+git branch -M main
+git remote add origin https://github.com/Muntazir-Syed/orbit-mini.git
+git push -u origin main
